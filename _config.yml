@@ -1,12 +1,12 @@
 theme: minima
-title: Alex's blog
+title: Campanile
 future: true
 paginate: 12
 
-title: Alex's blog
+title: Campanile
 author:
-  name: Alex Telford
-  email: alextelford@gmail.com
+  name: 
+  email: 
 description: > # this means to ignore newlines until "show_excerpts:"
   Personal site for posts about my interests: the biotech industry, medicine, molecular biology, neuroscience, biorisk, science, consciousness, AI, innovation, decision making, philosophy, games, sci-fi, probability, and forecasting (among other things). I write to learn, mostly about biotech.
 business_description: >
